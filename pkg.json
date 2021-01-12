@@ -2,11 +2,13 @@
 	"packages": [
 		{
 			"project": "First",
-			"version": "0.0.1"
+			"version": "0.0.1",
+			"resources": []
 		},
 		{
 			"project": "GeneratePassword",
-			"version": "0.0.1"
+			"version": "0.0.1",
+			"resources": []
 		}
 	]
 }
