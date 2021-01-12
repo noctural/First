@@ -3,6 +3,10 @@
 		{
 			"project": "First",
 			"version": "0.0.1"
+		},
+		{
+			"project": "GeneratePassword",
+			"version": "0.0.1"
 		}
 	]
 }
