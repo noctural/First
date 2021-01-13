@@ -14,6 +14,21 @@
 			"project": "HourTracker",
 			"version": "0.0.7",
 			"resources": []
+		},
+		{
+			"project": "DbViewer",
+			"version": "0.0.4",
+			"resources": []
+		},
+		{
+			"project": "LearningContent",
+			"version": "0.0.1",
+			"resources": []
+		},
+		{
+			"project": "Learn",
+			"version": "0.1.1",
+			"resources": []
 		}
 	]
 }
