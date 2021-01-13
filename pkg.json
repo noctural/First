@@ -14,46 +14,6 @@
 			"project": "HourTracker",
 			"version": "0.0.1",
 			"resources": []
-		},
-		{
-			"project": "ImageCardLearning",
-			"version": "0.0.1",
-			"resources": []
-		},
-		{
-			"project": "IndexServerStatus",
-			"version": "0.0.1",
-			"resources": []
-		},
-		{
-			"project": "Learn",
-			"version": "0.0.1",
-			"resources": []
-		},
-		{
-			"project": "LearningContent",
-			"version": "0.0.1",
-			"resources": []
-		},
-		{
-			"project": "PlantDetermination",
-			"version": "0.0.1",
-			"resources": []
-		},
-		{
-			"project": "ProwlNotification",
-			"version": "0.0.1",
-			"resources": []
-		},
-		{
-			"project": "TokenRefreshAlert",
-			"version": "0.0.1",
-			"resources": []
-		},
-		{
-			"project": "WrapData",
-			"version": "0.0.1",
-			"resources": []
 		}
 	]
 }
